@@ -1,7 +1,7 @@
 # Case técnico para a vaga para Analista de Dados Jr (python) na Join 💻
 
 ⚠️ OBS: Os arquivos gerados das tabelas nos formatos parquet e os arquivos das respostas em formato delta vão ser salvos em seu 
-dbs/filestore do databricks. Como utilizei o databricks e minha conta não é premium, não conseguir configurar o CLI para baixar os arquivos gerados parquet e delta
+dbs/filestore do databricks. Como utilizei o databricks e minha conta não é premium, não consigo configurar o CLI através de um token para baixar os arquivos gerados parquet e delta
 para colocar eles junto ao repositório, e também não tenho acesso a um armazenamento em nuvem para passar os arquivos para nuvem para baixar. 
 Porém, quando você seguir as etapas citadas abaixo, esses arquivos serão salvos no seu dbfs:filestore e você terá acesso, ao rodar o código da aplicação e terá acesso a eles.
 </br>
