@@ -1,5 +1,11 @@
 # Case técnico para a vaga para Analista de Dados Jr (python) na Join 💻
 
+⚠️ OBS: Os arquivos gerados das tabelas nos formatos parquet e os arquivos das respostas em formato delta vão ser salvos em seu 
+dbs/filestore do databricks. Como utilizei o databricks e minha conte não é premium, não conseguir configurar o CLI para baixar os arquivos gerados parquet e delta
+e também não tenho acesso a armazenamento em nuvem para passar os arquivos para nuvem para baixar. 
+Porém, quando seguir as etapas, esses arquivos serão salvos no seu dbfs:filestore e você terá acesso, e conseguirá compilar:
+Segue as etapas abaixo para a aplicação. 
+
 📋 Este repositório foi criado para armazena os codigos desenvolvidos para o case técnico. 
 
 O que contém no repositório quais tarefas são realizadas. ⚒️
