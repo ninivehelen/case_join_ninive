@@ -1,4 +1,4 @@
-# Case técnico para a vaga para Analista de Dados Jr (python)  💻
+# Case técnico para a vaga para Analista de Dados Jr (python) na Join 💻
 
 📋 Este repositório foi criado para armazena os codigos desenvolvidos para o case técnico. 
 
