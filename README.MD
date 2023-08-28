@@ -5,7 +5,7 @@ dbs/filestore do databricks. Como utilizei o databricks e minha conta não é pr
 para colocar eles junto ao repositório, e também não tenho acesso a um armazenamento em nuvem para passar os arquivos para nuvem para baixar. 
 Porém, quando você seguir as etapas citadas abaixo, esses arquivos serão salvos no seu dbfs:filestore e você terá acesso, ao rodar o código da aplicação e terá acesso a eles.
 </br>
-**Segue as etapas abaixo para a aplicação**. 
+##**Segue as etapas abaixo para a aplicação**. 
 
 📋 Este repositório foi criado para armazena os codigos desenvolvidos para o case técnico. 
 
